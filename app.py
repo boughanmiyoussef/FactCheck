@@ -1,5 +1,3 @@
-# app.py - ENHANCED FAKE NEWS DETECTOR
-# Features: Examples to try, URL input, confidence meter, detailed analysis
 
 import streamlit as st
 import pickle
