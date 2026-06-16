@@ -154,8 +154,6 @@ with col_right:
     st.markdown("---")
     st.markdown("### 📊 Model Stats")
     st.metric("Accuracy", "95.2%", "vs 90% baseline")
-    st.metric("Precision (FAKE)", "95.3%", "Confident in fake detection")
-    st.metric("Recall (FAKE)", "95.0%", "Finds 95% of fake news")
 
 # ==================================================
 # ANALYSIS FUNCTION
