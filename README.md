@@ -2,7 +2,7 @@
 
 ## 🎯 Live Demo
 
-> **Try it now:** [**factcheck-phkj.onrender.com**](https://factcheck-phkj.onrender.com/)
+> **Try it now:** [**https://factcheck-qzdl.onrender.com/**](https://factcheck-qzdl.onrender.com/)
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://factcheck-phkj.onrender.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -397,7 +397,7 @@ plotly==5.15.0
   
 ### ⭐️ If you found this project useful, please give it a star! ⭐️
 
-**Try the live demo:** [**factcheck-phkj.onrender.com**](https://factcheck-phkj.onrender.com/)
+**Try the live demo:** [**https://factcheck-qzdl.onrender.com/**](https://factcheck-qzdl.onrender.com/)
 
 **Built with ❤️ by Youssef Boughanmi**
 
