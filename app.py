@@ -150,10 +150,6 @@ with col_right:
     
     7. 🔄 **Cross-reference** - Is it reported elsewhere?
     """)
-    
-    st.markdown("---")
-    st.markdown("### 📊 Model Stats")
-    st.metric("Accuracy", "95.2%", "vs 90% baseline")
 
 # ==================================================
 # ANALYSIS FUNCTION
