@@ -16,8 +16,8 @@ stop_words = set(stopwords.words('english'))
 # Load your trained model
 @st.cache_resource
 def load_model():
-    model = pickle.load(open('project2_models/fake_news_model.pkl', 'rb'))
-    vectorizer = pickle.load(open('project2_models/tfidf_vectorizer.pkl', 'rb'))
+    model = pickle.load(open('FactCheck_models/fake_news_model.pkl', 'rb'))
+    vectorizer = pickle.load(open('FactCheck_models/tfidf_vectorizer.pkl', 'rb'))
     return model, vectorizer
 
 model, vectorizer = load_model()
